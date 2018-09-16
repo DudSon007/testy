@@ -1,7 +1,3 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: dudson
- * Date: 16.09.18
- * Time: 11:45
- */
+
+echo "Mój pierwszy program w PhpStorm";
